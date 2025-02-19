@@ -73,7 +73,7 @@ const Sidebar = () => {
                 </div>
             </nav>
 
-            <button className="flex items-center justify-center cursor-pointer w-full mt-66 bg-black border border-black px-4 py-2 rounded-md">
+            <button className="flex items-center justify-center cursor-pointer w-full mt-32 bg-black border border-black px-4 py-2 rounded-md">
                 <FaSignOutAlt className="mr-2" /> Logout
             </button>
         </aside>
